@@ -1,0 +1,4 @@
+.db
+packages/*
+x64/*
+ipch
