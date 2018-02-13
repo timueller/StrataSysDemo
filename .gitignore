@@ -1,4 +1,4 @@
-.db
+*.db
 packages/*
 x64/*
 ipch
